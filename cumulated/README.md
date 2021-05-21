@@ -29,7 +29,9 @@ The file "covid-19-tests.json" shall be used as whitelist for the valid test kit
 > Where `n` is the array pos of the corresponding test kit entry.
 > <sup>1</sup>: Use `.ma` when the test type is "Rapid immunoassay" (type code LP217198-3)
 > <sup>2</sup>: Use `.nm` when the test type is "Nucleic acid amplification with probe detection" (type code LP6464-4). This field is not in the tested example.
-> **IMPORTANT:** :The tests with swiss test kit nr 32 and 34 according the [BAG List](https://www.bag.admin.ch/dam/bag/de/dokumente/biomed/heilmittel/COVID-19/validierte-schnelltests-covid.pdf.download.pdf/Validierte%20SARS-CoV-2-Schnelltests.pdf) are NOT in the EU-List!"
+
+
+> **IMPORTANT:** The tests with swiss test kit nr 32 and 34 according the [BAG List](https://www.bag.admin.ch/dam/bag/de/dokumente/biomed/heilmittel/COVID-19/validierte-schnelltests-covid.pdf.download.pdf/Validierte%20SARS-CoV-2-Schnelltests.pdf) are NOT in the EU-List!"
 
 ## Structure
 
